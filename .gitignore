@@ -1,0 +1,71 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @f2dude
+
+1
+0
+
+    0
+
+f2dude/LayoutSample
+Code
+Issues 0
+Pull requests 0
+Wiki
+Pulse
+Graphs
+Settings
+LayoutSample/.gitignore
+71696a4 a day ago
+@saikrishna-rbt saikrishna-rbt Initial commit
+39 lines (29 sloc) 473 Bytes
+
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+
+build/
+
+    Status API Training Shop Blog About
+
+    © 2016 GitHub, Inc. Terms Privacy Security Contact Help
+
